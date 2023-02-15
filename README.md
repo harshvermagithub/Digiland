@@ -1,4 +1,4 @@
-# digiland
+# Digiland
 The website I created for Digiland Business is a sleek, modern platform designed to showcase the company's services and expertise in the field of digital marketing. Built from HTML, CSS, and JavaScript, the website is easy to navigate, with a simple yet engaging layout that draws visitors in and encourages them to explore further.
 
 The homepage features an eye-catching hero image that captures the essence of Digiland's business, along with an introduction to the company's core values and unique selling points. Visitors can quickly and easily access information about the company's services, from SEO and social media management to content creation and branding.
